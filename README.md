@@ -7,10 +7,8 @@
 
 </div>
 
-<p align="center"><code>~/links</code> &nbsp; <a href="https://github.com/dracknet">GitHub</a></p>
 
-<p align="center"><sub>dracknet · Neofetch card generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DrackNet&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
