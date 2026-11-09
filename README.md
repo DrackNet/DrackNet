@@ -1,7 +1,15 @@
-# Hi, I'm HERLAND! 👋
+<div align="center">
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/neofetch?username=dracknet&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F134082209%3Fv%3D4&role=Backend+or+systems+engineer&mode=light" />
+  <img src="https://www.gitskins.com/api/section/neofetch?username=dracknet&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F134082209%3Fv%3D4&role=Backend+or+systems+engineer&mode=dark" width="100%" alt="dracknet: neofetch-style profile card" />
+</picture>
 
+</div>
+
+<p align="center"><code>~/links</code> &nbsp; <a href="https://github.com/dracknet">GitHub</a></p>
+
+<p align="center"><sub>dracknet · Neofetch card generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DrackNet&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 ## 🚀 About Me
 
